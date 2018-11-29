@@ -1,0 +1,87 @@
+﻿
+@{
+    ViewBag.Title = "MyVideo";
+}
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <link href="/Content/jQuery-video/zy.media.min.css" rel="stylesheet" />
+    <style type="text/css">
+        #modelView {
+            background-color: #DDDDDD;
+            z-index: 0;
+            opacity: 0.7;
+            height: 100%;
+            width: 100%;
+            position: relative;
+        }
+
+        .playvideo {
+            padding-top: auto;
+            z-index: 9999;
+            position: relative;
+        }
+
+        .zy_media {
+            z-index: 999999999;
+        }
+    </style>
+</head>
+<body>
+    <div id="fh5co-main" style="overflow-y:auto">
+        <div class="fh5co-narrow-content">
+            <div class="fh5co-heading animate-box" data-animate-effect="fadeInLeft">
+                <div style="float: left">Read Our Blog</div>
+                <div style="float: right">Read Our Blog</div>
+                <div style="clear: both; width: 0px; height: 0px;"></div>
+            </div>
+            <div  style="overflow-y:auto">
+                <div style="margin-bottom:10px;border:10px outset #CCCCFF;">
+                    <div class="zy_media">
+                        <video poster="/Content/img/video1.jpg" data-config='{"mediaTitle": "歌舞青春"}'>
+                            <source src="http://myhome1314-1253564673.cossh.myqcloud.com/MyVideo/%E6%AD%8C%E8%88%9E%E9%9D%92%E6%98%A5_1.mp4" type="video/mp4">
+                            您的浏览器不支持HTML5视频
+                        </video>
+                    </div>
+                </div>
+
+                <div style="margin-bottom:10px;border:10px outset #CCCCFF;">
+                    <div class="zy_media">
+                        <video poster="/Content/img/video2.jpg" data-config='{"mediaTitle": "逝去的青春岁月"}'>
+                            <source src="http://myhome1314-1253564673.cossh.myqcloud.com/MyVideo/%E7%88%B1%E7%9A%84%E6%97%85%E9%80%94.mp4" type="video/mp4">
+                            您的浏览器不支持HTML5视频
+                        </video>
+                    </div>
+                </div>
+
+
+                <div style="margin-bottom:10px;border:10px outset #CCCCFF;">
+                    <div class="zy_media">
+                        <video poster="https://r1.ykimg.com/05420408584A363C6A0A47047DD24931" data-config='{"mediaTitle": "测试视频--视频"}'>
+                            <source src="http://7xikp8.com1.z0.glb.clouddn.com/bunny.mp4" type="video/mp4">
+                            您的浏览器不支持HTML5视频
+                        </video>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="~/Content/jQuery-video/zy.media.min.js"></script>
+    <script src="zy.media.min.js"></script>
+    <script type="text/javascript">
+        //document.documentElement.style.overflow='hidden';
+        zymedia('video', { autoplay: true });
+        var screenheight = window.screen.height / 2;
+        var videoheight = $(".zy_media").height() / 2;
+        var padding_top = screenheight - videoheight;
+        $(".playvideo").css({ "top": padding_top });
+
+    </script>
+
+</body>
+
+</html>

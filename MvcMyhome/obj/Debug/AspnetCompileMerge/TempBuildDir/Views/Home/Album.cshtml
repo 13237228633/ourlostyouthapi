@@ -1,0 +1,92 @@
+﻿@{
+    ViewBag.Title = "Album";
+}
+
+
+<html lang="zh">
+<head>
+    <title></title>
+    @Styles.Render("~/Content/Albumcss")
+</head>
+<body>
+    <div id="fh5co-main">
+        <div class="fh5co-narrow-content">
+            <div class="fh5co-heading animate-box" data-animate-effect="fadeInLeft">
+                <div style="float: left">Read Our Blog</div>
+                <div style="float: right">Read Our Blog</div>
+                <div style="clear: both; width: 0px; height: 0px;"></div>
+            </div>
+            <div class="content">
+                <div class="chroma-gallery mygallery">
+                    @{System.Data.DataTable dt = ViewData["dtAlbum"] as System.Data.DataTable;}
+                    @if (dt.Rows.Count > 0)
+                    {
+                        foreach (System.Data.DataRow item in dt.Rows)
+                        {
+                            <img src='@item["AlnumUrl"]' alt='@item["alnumname"]' data-largesrc='@item["AlnumUrl"]'>
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+    @Scripts.Render("~/Content/Albumjs")
+
+    <script type="text/javascript">
+    $(document).ready(function () {
+        $(".mygallery").chromaGallery
+              ({
+                  color: '#000',
+                  gridMargin: 15,
+                  maxColumns: 5,
+                  dof: true,
+                  screenOpacity: 0.8
+              });
+
+        //距离屏幕左边的距离
+        //$(window).width();
+        //$(this).mouseup(function (e) {
+        //    var mygallery = $(".mygallery").chromaGallery();
+        //    if (e.pageY - $(document).scrollTop() > 50) {
+        //        if (e.pageX > $(window).width() / 2) {
+        //            mygallery.chromaGallery("next");
+        //        } else {
+        //            mygallery.chromaGallery("prev");
+        //        }
+        //    }
+        //})
+    })
+    //layui.use(['util', 'laydate', 'layer'], function () {
+    //    var util = layui.util
+    //    , laydate = layui.laydate
+    //    , layer = layui.layer;
+    //    //固定块
+    //    util.fixbar({
+    //        bar1: true
+    //      , bar2: false
+    //      , css: { right: 50, bottom: 50 }
+    //      , bgcolor: '#393D49'
+    //      , click: function (type) {
+    //          if (type === 'bar1') {
+    //              //iframe层-禁滚动条
+    //              var index = layer.open({
+    //                  type: 2,
+    //                  area: ['360px', '500px'],
+    //                  skin: 'layui-layer-rim', //加上边框
+    //                  content: ['/Home/UploadAlbum', 'no']
+    //              });
+
+    //              layer.full(index);
+    //              //layer.msg('icon是可以随便换的')
+    //          }
+
+    //          //else if (type === 'bar2') {
+    //          //    layer.msg('两个bar都可以设定是否开启')
+    //          //}
+    //      }
+    //    });
+    //});
+    </script>
+</body>
+
+</html>

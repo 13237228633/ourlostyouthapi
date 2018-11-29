@@ -1,0 +1,507 @@
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\MvcMyhome.dll.config
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\MvcMyhome.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\MvcMyhome.pdb
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Antlr3.Runtime.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\DAL.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Entity.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\EntityFramework.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\EntityFramework.SqlServer.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Newtonsoft.Json.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Owin.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Helpers.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Mvc.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Optimization.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Razor.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.Razor.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\WebGrease.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Qiniu.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\DAL.pdb
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Entity.pdb
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Helpers.xml
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Mvc.xml
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Optimization.xml
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Razor.xml
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.xml
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.Razor.xml
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Antlr3.Runtime.pdb
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Newtonsoft.Json.xml
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\EntityFramework.xml
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\EntityFramework.SqlServer.xml
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.xml
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.xml
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\obj\Release\MvcMyhome.csprojResolveAssemblyReference.cache
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\obj\Release\MvcMyhome.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\MvcMyhome\obj\Release\MvcMyhome.pdb
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\MvcMyhome.dll.config
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\MvcMyhome.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\MvcMyhome.pdb
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\DAL.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Entity.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Qiniu.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\DAL.pdb
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Entity.pdb
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\obj\Release\MvcMyhome.csprojResolveAssemblyReference.cache
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\obj\Release\MvcMyhome.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\obj\Release\MvcMyhome.pdb
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\MvcMyhome.dll.config
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\MvcMyhome.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\MvcMyhome.pdb
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Antlr3.Runtime.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\DAL.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Entity.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\EntityFramework.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\EntityFramework.SqlServer.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Newtonsoft.Json.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Owin.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Helpers.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Mvc.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Optimization.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Razor.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.Razor.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\WebGrease.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Qiniu.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\DAL.pdb
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Entity.pdb
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Helpers.xml
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Mvc.xml
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Optimization.xml
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Razor.xml
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.xml
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.Razor.xml
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Antlr3.Runtime.pdb
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Newtonsoft.Json.xml
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\EntityFramework.xml
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\EntityFramework.SqlServer.xml
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.xml
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.xml
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\obj\Release\MvcMyhome.csprojResolveAssemblyReference.cache
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\obj\Release\MvcMyhome.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\MvcMyhome\obj\Release\MvcMyhome.pdb
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Common.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\office.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Vbe.Interop.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\stdole.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Common.pdb
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Office.Interop.Excel.xml
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\office.xml
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\MvcMyhome.dll.config
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\MvcMyhome.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\MvcMyhome.pdb
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Antlr3.Runtime.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Common.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\DAL.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Entity.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\EntityFramework.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\EntityFramework.SqlServer.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Google.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Web.Infrastructure.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Newtonsoft.Json.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Owin.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Helpers.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Mvc.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Optimization.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Razor.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.Deployment.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.Razor.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\WebGrease.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\ICSharpCode.SharpZipLib.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Qiniu.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Common.pdb
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\DAL.pdb
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Entity.pdb
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Helpers.xml
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Mvc.xml
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Optimization.xml
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Razor.xml
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.xml
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.Deployment.xml
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.Razor.xml
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Antlr3.Runtime.pdb
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Newtonsoft.Json.xml
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\EntityFramework.xml
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\EntityFramework.SqlServer.xml
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.xml
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.xml
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Google.xml
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\EntityFramework.resources.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\obj\Release\MvcMyhome.csprojResolveAssemblyReference.cache
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\obj\Release\MvcMyhome.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome\obj\Release\MvcMyhome.pdb
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\cos api sdk.exe
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\EnvDTE.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\cos api sdk.pdb
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\cos api sdk.exe.config
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Antlr3.Runtime.pdb
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Antlr3.Runtime.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\EntityFramework.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\EntityFramework.SqlServer.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.mshtml.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.VisualStudio.Web.BrowserLink.12.0.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Owin.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Helpers.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Mvc.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Optimization.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Razor.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.Deployment.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.Razor.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\WebGrease.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.VisualStudio.Web.BrowserLink.12.0.xml
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Helpers.xml
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Mvc.xml
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Optimization.xml
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Razor.xml
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.xml
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.Deployment.xml
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.Razor.xml
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\EntityFramework.xml
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\EntityFramework.SqlServer.xml
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.xml
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.xml
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\MvcMyhome.dll.config
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\MvcMyhome.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\MvcMyhome.pdb
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Antlr3.Runtime.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Common.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\cos api sdk.exe
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\DAL.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Entity.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\EntityFramework.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\EntityFramework.SqlServer.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.Core.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.mshtml.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Cookies.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Facebook.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Google.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.OAuth.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Twitter.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Web.Infrastructure.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Newtonsoft.Json.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Owin.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\QqLogin.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Helpers.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Mvc.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Optimization.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Razor.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.Deployment.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.Razor.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\WebGrease.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\ICSharpCode.SharpZipLib.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Qiniu.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\stdole.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Common.pdb
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\DAL.pdb
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Entity.pdb
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\QqLogin.pdb
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\cos api sdk.pdb
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Helpers.xml
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Mvc.xml
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Optimization.xml
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Razor.xml
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.xml
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.Deployment.xml
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.Razor.xml
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Antlr3.Runtime.pdb
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\EntityFramework.xml
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\EntityFramework.SqlServer.xml
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.Core.xml
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.xml
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.xml
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Facebook.xml
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Cookies.xml
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.OAuth.xml
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Google.xml
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Twitter.xml
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\EntityFramework.resources.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\obj\Release\MvcMyhome.csprojResolveAssemblyReference.cache
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\obj\Release\MvcMyhome.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\MvcMyhome\obj\Release\MvcMyhome.pdb
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\MvcMyhome.dll.config
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\MvcMyhome.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\MvcMyhome.pdb
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Antlr3.Runtime.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Common.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\cos api sdk.exe
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\DAL.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Entity.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\EntityFramework.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\EntityFramework.SqlServer.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.Core.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.mshtml.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Cookies.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Facebook.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Google.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.OAuth.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Twitter.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Web.Infrastructure.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Newtonsoft.Json.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Owin.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\QqLogin.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Helpers.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Mvc.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Optimization.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Razor.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.Deployment.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.Razor.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\WebGrease.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\ICSharpCode.SharpZipLib.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Qiniu.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\stdole.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Common.pdb
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\DAL.pdb
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Entity.pdb
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\QqLogin.pdb
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\cos api sdk.pdb
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Helpers.xml
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Mvc.xml
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Optimization.xml
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\System.Web.Razor.xml
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.xml
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.Deployment.xml
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\System.Web.WebPages.Razor.xml
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Antlr3.Runtime.pdb
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\EntityFramework.xml
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\EntityFramework.SqlServer.xml
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.Core.xml
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.xml
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.xml
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Facebook.xml
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Cookies.xml
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.OAuth.xml
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Google.xml
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.Twitter.xml
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\EntityFramework.resources.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\obj\Release\MvcMyhome.csprojResolveAssemblyReference.cache
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\obj\Release\MvcMyhome.dll
+D:\个人项目\MvcMyhome_Prj\MvcMyhome\obj\Release\MvcMyhome.pdb

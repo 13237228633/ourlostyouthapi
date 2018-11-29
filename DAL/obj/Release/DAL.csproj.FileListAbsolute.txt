@@ -1,0 +1,98 @@
+D:\Desktop\Myhome_prj\Myhome_prj\DAL\bin\Release\DAL.dll
+D:\Desktop\Myhome_prj\Myhome_prj\DAL\bin\Release\DAL.pdb
+D:\Desktop\Myhome_prj\Myhome_prj\DAL\bin\Release\Entity.dll
+D:\Desktop\Myhome_prj\Myhome_prj\DAL\bin\Release\Entity.pdb
+D:\Desktop\Myhome_prj\Myhome_prj\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\Desktop\Myhome_prj\Myhome_prj\DAL\obj\Release\DAL.dll
+D:\Desktop\Myhome_prj\Myhome_prj\DAL\obj\Release\DAL.pdb
+d:\Desktop\Myhome_prj\Myhome_prj\DAL\bin\Release\Aliyun.OSS.dll
+D:\Desktop\Myhome_prj\Myhome_prj\DAL\bin\Release\Newtonsoft.Json.dll
+D:\Desktop\Myhome_prj\Myhome_prj\DAL\bin\Release\Qiniu.dll
+d:\Desktop\Myhome_prj\DAL\bin\Release\DAL.dll
+d:\Desktop\Myhome_prj\DAL\bin\Release\DAL.pdb
+d:\Desktop\Myhome_prj\DAL\bin\Release\Aliyun.OSS.dll
+d:\Desktop\Myhome_prj\DAL\bin\Release\Entity.dll
+d:\Desktop\Myhome_prj\DAL\bin\Release\Newtonsoft.Json.dll
+d:\Desktop\Myhome_prj\DAL\bin\Release\Qiniu.dll
+d:\Desktop\Myhome_prj\DAL\bin\Release\Entity.pdb
+d:\Desktop\Myhome_prj\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+d:\Desktop\Myhome_prj\DAL\obj\Release\DAL.dll
+d:\Desktop\Myhome_prj\DAL\obj\Release\DAL.pdb
+C:\Users\123456\Desktop\Myhome_prj\DAL\bin\Release\DAL.dll
+C:\Users\123456\Desktop\Myhome_prj\DAL\bin\Release\DAL.pdb
+C:\Users\123456\Desktop\Myhome_prj\DAL\bin\Release\Aliyun.OSS.dll
+C:\Users\123456\Desktop\Myhome_prj\DAL\bin\Release\Entity.dll
+C:\Users\123456\Desktop\Myhome_prj\DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\123456\Desktop\Myhome_prj\DAL\bin\Release\Qiniu.dll
+C:\Users\123456\Desktop\Myhome_prj\DAL\bin\Release\Entity.pdb
+C:\Users\123456\Desktop\Myhome_prj\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\123456\Desktop\Myhome_prj\DAL\obj\Release\DAL.dll
+C:\Users\123456\Desktop\Myhome_prj\DAL\obj\Release\DAL.pdb
+C:\Users\123456\Documents\Visual Studio 2017\Projects\MvcMyhome_prj\DAL\bin\Release\DAL.dll
+C:\Users\123456\Documents\Visual Studio 2017\Projects\MvcMyhome_prj\DAL\bin\Release\DAL.pdb
+C:\Users\123456\Documents\Visual Studio 2017\Projects\MvcMyhome_prj\DAL\bin\Release\Aliyun.OSS.dll
+C:\Users\123456\Documents\Visual Studio 2017\Projects\MvcMyhome_prj\DAL\bin\Release\Entity.dll
+C:\Users\123456\Documents\Visual Studio 2017\Projects\MvcMyhome_prj\DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\123456\Documents\Visual Studio 2017\Projects\MvcMyhome_prj\DAL\bin\Release\Qiniu.dll
+C:\Users\123456\Documents\Visual Studio 2017\Projects\MvcMyhome_prj\DAL\bin\Release\Entity.pdb
+C:\Users\123456\Documents\Visual Studio 2017\Projects\MvcMyhome_prj\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\123456\Documents\Visual Studio 2017\Projects\MvcMyhome_prj\DAL\obj\Release\DAL.dll
+C:\Users\123456\Documents\Visual Studio 2017\Projects\MvcMyhome_prj\DAL\obj\Release\DAL.pdb
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\DAL\bin\Release\DAL.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\DAL\bin\Release\DAL.pdb
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\DAL\bin\Release\Aliyun.OSS.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\DAL\bin\Release\Entity.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\DAL\bin\Release\Qiniu.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\DAL\bin\Release\Entity.pdb
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\DAL\obj\Release\DAL.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\DAL\obj\Release\DAL.pdb
+C:\Users\123456\Desktop\MvcMyhome_Prj\DAL\bin\Release\DAL.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\DAL\bin\Release\DAL.pdb
+C:\Users\123456\Desktop\MvcMyhome_Prj\DAL\bin\Release\Aliyun.OSS.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\DAL\bin\Release\Entity.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\DAL\bin\Release\Qiniu.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\DAL\bin\Release\Entity.pdb
+C:\Users\123456\Desktop\MvcMyhome_Prj\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\123456\Desktop\MvcMyhome_Prj\DAL\obj\Release\DAL.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\DAL\obj\Release\DAL.pdb
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\DAL\bin\Release\DAL.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\DAL\bin\Release\DAL.pdb
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\DAL\bin\Release\Aliyun.OSS.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\DAL\bin\Release\Entity.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\DAL\bin\Release\Qiniu.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\DAL\bin\Release\Entity.pdb
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\DAL\obj\Release\DAL.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\DAL\obj\Release\DAL.pdb
+D:\Desktop\MvcMyhome_Prj\DAL\bin\Release\DAL.dll
+D:\Desktop\MvcMyhome_Prj\DAL\bin\Release\DAL.pdb
+D:\Desktop\MvcMyhome_Prj\DAL\bin\Release\Aliyun.OSS.dll
+D:\Desktop\MvcMyhome_Prj\DAL\bin\Release\Entity.dll
+D:\Desktop\MvcMyhome_Prj\DAL\bin\Release\Newtonsoft.Json.dll
+D:\Desktop\MvcMyhome_Prj\DAL\bin\Release\Qiniu.dll
+D:\Desktop\MvcMyhome_Prj\DAL\bin\Release\Entity.pdb
+D:\Desktop\MvcMyhome_Prj\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\Desktop\MvcMyhome_Prj\DAL\obj\Release\DAL.dll
+D:\Desktop\MvcMyhome_Prj\DAL\obj\Release\DAL.pdb
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\bin\Release\DAL.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\bin\Release\DAL.pdb
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\bin\Release\Aliyun.OSS.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\bin\Release\Entity.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\bin\Release\Qiniu.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\bin\Release\Entity.pdb
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\obj\Release\DAL.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\obj\Release\DAL.pdb
+D:\个人项目\MvcMyhome_Prj\DAL\bin\Release\DAL.dll
+D:\个人项目\MvcMyhome_Prj\DAL\bin\Release\DAL.pdb
+D:\个人项目\MvcMyhome_Prj\DAL\bin\Release\Aliyun.OSS.dll
+D:\个人项目\MvcMyhome_Prj\DAL\bin\Release\Entity.dll
+D:\个人项目\MvcMyhome_Prj\DAL\bin\Release\Qiniu.dll
+D:\个人项目\MvcMyhome_Prj\DAL\bin\Release\Entity.pdb
+D:\个人项目\MvcMyhome_Prj\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\个人项目\MvcMyhome_Prj\DAL\obj\Release\DAL.dll
+D:\个人项目\MvcMyhome_Prj\DAL\obj\Release\DAL.pdb

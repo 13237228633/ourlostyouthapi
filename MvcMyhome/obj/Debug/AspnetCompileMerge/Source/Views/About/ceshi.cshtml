@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewBag.Title = "ceshi";
+    Layout = null;
+}
+
+<a href="https://graph.qq.com/oauth/show?which=Login&display=pc&client_id=101413243&response_type=token&scope=all&redirect_uri=www.gyzwj1314.xyz;">fdsfsdf</a>
+@*/ 获取access_token
+var href = window.location.href;
+var hash = window.location.hash.slice(1);
+var access_token = ((hash.split('&'))[0].split('='))[1];
+//获取来源url：ref
+var ref = '/'; //默认登陆成功以后跳转到首页
+if (document.referrer.length > 0) {
+  ref = document.referrer;
+}
+try {
+  if (ref.length == 0 && opener.location.href.length > 0) {
+   ref = opener.location.href;
+  }
+} catch (e) {}
+//从页面收集OpenAPI必要的参数。get_user_info不需要输入参数，因此paras中没有参数
+var paras = {};
+//用JS SDK调用OpenAPI
+QC.api("get_user_info", paras)
+.success(function(s){
+//成功回调，通过s.data获取OpenAPI的返回数据
+//s.data = {
+//    "ret":0,
+//    "msg":"",
+//    "nickname":"SeeYou",
+//    "figureurl":"http://qzapp.qlogo.cn/qzapp/100229030/ECCC463F76A2E3C1D9217BBC30418164/30",
+//    "figureurl_1":"http://qzapp.qlogo.cn/qzapp/100229030/ECCC463F76A2E3C1D9217BBC30418164/50",
+//    "figureurl_2":"http://qzapp.qlogo.cn/qzapp/100229030/ECCC463F76A2E3C1D9217BBC30418164/100",
+//    "gender":"男",
+//    "vip":"1",
+//    "level":"7"
+//}
+//拿到数据以后，组织数据，一般，我们用到3个，access_token,nikename,figureurl(这个根据需求选择30,50,100)异步进行入库处理，如果数据库存在该用户，则返回相关信息，如果不存在，则新入库，然后返回相关信息
+//从哪里来，到哪里去，入库处理成功以后，跳转到之前的页面
+//window.location.href = ref;
+})
+//指定接口访问失败的接收函数，f为失败返回Response对象
+.error(function(f){
+//失败回调
+//处理失败
+})
+.complete(function(c){
+//完成请求回调
+});*@
+

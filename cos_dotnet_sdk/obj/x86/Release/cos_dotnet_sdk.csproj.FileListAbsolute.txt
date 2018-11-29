@@ -1,0 +1,14 @@
+C:\Users\123456\Desktop\MvcMyhome_Prj\cos_dotnet_sdk\bin\Release\cos api sdk.exe.config
+C:\Users\123456\Desktop\MvcMyhome_Prj\cos_dotnet_sdk\bin\Release\cos api sdk.exe
+C:\Users\123456\Desktop\MvcMyhome_Prj\cos_dotnet_sdk\bin\Release\cos api sdk.pdb
+C:\Users\123456\Desktop\MvcMyhome_Prj\cos_dotnet_sdk\bin\Release\Newtonsoft.Json.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\cos_dotnet_sdk\obj\x86\Release\cos_dotnet_sdk.csprojResolveAssemblyReference.cache
+C:\Users\123456\Desktop\MvcMyhome_Prj\cos_dotnet_sdk\obj\x86\Release\cos api sdk.exe
+C:\Users\123456\Desktop\MvcMyhome_Prj\cos_dotnet_sdk\obj\x86\Release\cos api sdk.pdb
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\cos_dotnet_sdk\bin\Release\cos api sdk.exe.config
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\cos_dotnet_sdk\bin\Release\cos api sdk.exe
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\cos_dotnet_sdk\bin\Release\cos api sdk.pdb
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\cos_dotnet_sdk\bin\Release\Newtonsoft.Json.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\cos_dotnet_sdk\obj\x86\Release\cos_dotnet_sdk.csprojResolveAssemblyReference.cache
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\cos_dotnet_sdk\obj\x86\Release\cos api sdk.exe
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\cos_dotnet_sdk\obj\x86\Release\cos api sdk.pdb

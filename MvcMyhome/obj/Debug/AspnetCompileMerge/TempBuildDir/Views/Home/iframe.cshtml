@@ -1,0 +1,142 @@
+﻿@{
+    ViewBag.Title = "ceshi";
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>我们逝去的青春</title>
+    <meta name="viewport" content="width=440,user-scalable=no">
+    <link href="/Content/layui/css/layui.css" rel="stylesheet" />
+    <script src="/Content/jquery-1.10.2.js"></script>
+    <script src="/Content/layui/layui.js"></script>
+
+    <style>
+        .fixedfield {
+            z-index: 100000;
+            margin: 0px;
+            padding: 0px;
+            position: fixed;
+            left: 0px;
+            top: 0px;
+        }
+
+        .fixedfieldConcet {
+            width: 380px;
+            float: left;
+        }
+
+        .fixedfieldcolse {
+            width: 20px;
+            height: 100px;
+            float: left;
+            background: url("../../Content/img/colse.png") 20px 110px;
+        }
+
+        .clear {
+            clear: both;
+        }
+    </style>
+
+    
+
+</head>
+<body>
+    <span id="qqLoginBtn"></span>
+    <div class="fixedfield" style="">
+        <div class="fixedfieldConcet">
+            <div id="skPlayer"></div>
+        </div>
+        <div class="fixedfieldcolse"></div>
+        <div class="clear"></div>
+    </div>
+    <div class="layui-layout layui-layout-admin">
+        <div class="layui-bodyA" id="admin-body">
+            <div class="layui-tab-content" style="min-height: 150px; padding: 0px 0 0 0; z-index:1">
+                <div class="layui-tab-item layui-show">
+                    <iframe id="iframepage" style="overflow-y: auto;border:0px" width=100% src="/Home/index" data-id="1"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="/Content/skPlayer/dist/skPlayer.min.js"></script>
+    <script type="text/javascript">
+        var player = new skPlayer({
+            autoplay: true,
+            music: {
+                type: 'cloud',
+                source: 604250644
+            }
+        });
+        $(document).ready(function () {
+
+            var i111 = 0;
+            $(document).ready(function () {
+
+                $('.fixedfieldConcet').hide();
+                $(".fixedfieldcolse").click(function () {
+                    if (i111 % 2 == 0)
+                        $('.fixedfieldConcet').show(500);
+                    if (i111 % 2 != 0)
+                        $('.fixedfieldConcet').hide(500);
+                    i111++;
+                })
+            })
+            layui.config({
+                base: '/Content/layui/'
+            }).use(['element', 'layer'], function () {
+                //iframe自适应
+                $(window).on('resize', function () {
+                    var $content = $('.layui-bodyA');
+                    $content.height($(this).height());
+                    $content.find('iframe').each(function () {
+                        $(this).height($content.height()-3);
+
+                    });
+                }).resize();
+
+
+            })
+        })
+        var IframeOnClick = {
+            resolution: 200,
+            iframes: [],
+            interval: null,
+            Iframe: function () {
+                this.element = arguments[0];
+                this.cb = arguments[1];
+                this.hasTracked = false;
+            },
+            track: function (element, cb) {
+                this.iframes.push(new this.Iframe(element, cb));
+                if (!this.interval) {
+                    var _this = this;
+                    this.interval = setInterval(function () { _this.checkClick(); }, this.resolution);
+                }
+            },
+            checkClick: function () {
+                if (document.activeElement) {
+                    var activeElement = document.activeElement;
+                    for (var i in this.iframes) {
+                        if (activeElement === this.iframes[i].element) { // user is in this Iframe
+                            if (this.iframes[i].hasTracked == false) {
+                                this.iframes[i].cb.apply(window, []);
+                                this.iframes[i].hasTracked = true;
+                            }
+                        } else {
+                            this.iframes[i].hasTracked = false;
+                        }
+                    }
+                }
+            }
+        };
+
+        IframeOnClick.track(document.getElementById("iframepage"), function () {
+            $('.fixedfieldConcet').hide(500);
+            i111 = 0;
+        });
+    </script>
+
+</body>
+</html>

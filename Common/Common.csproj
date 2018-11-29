@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8244FF9F-11A3-4259-9644-620665926E6E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Common</RootNamespace>
+    <AssemblyName>Common</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>Svn</SccProjectName>
+    <SccLocalPath>Svn</SccLocalPath>
+    <SccAuxPath>Svn</SccAuxPath>
+    <SccProvider>SubversionScc</SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.81.0.1407, Culture=neutral, PublicKeyToken=1b03e6acf1164f73">
+      <HintPath>..\bin\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\bin\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.SmartTag, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>.\Microsoft.Office.Interop.SmartTag.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Net">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Routing">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Attributes\EnumerateDescription.cs" />
+    <Compile Include="Component\CodeTimer.cs" />
+    <Compile Include="Component\DataCollection.cs" />
+    <Compile Include="Component\DataList.cs" />
+    <Compile Include="Component\KeyValue.cs" />
+    <Compile Include="Component\OptimizedDictionary.cs" />
+    <Compile Include="Component\PageInfo.cs" />
+    <Compile Include="Component\PlanTasker.cs" />
+    <Compile Include="Component\SerializableDictionary.cs" />
+    <Compile Include="Component\SynchronizedDictionary.cs" />
+    <Compile Include="DataAccess\DataConnection.cs" />
+    <Compile Include="DataAccess\SQLHelper.cs" />
+    <Compile Include="Extension\GenericExtension.cs" />
+    <Compile Include="Kits\LogHelper.cs" />
+    <Compile Include="Kits\ProTimerWebClient.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Kits\ConfigurationKit.cs" />
+    <Compile Include="Kits\ConvertKit.cs" />
+    <Compile Include="Kits\CurveKit.cs" />
+    <Compile Include="Kits\DatetimeKit.cs" />
+    <Compile Include="Kits\DrawImage2D.cs" />
+    <Compile Include="Kits\EncryptKit.cs" />
+    <Compile Include="Kits\EnumerateKit.cs" />
+    <Compile Include="Kits\ExcelKit.cs" />
+    <Compile Include="Kits\FileKit.cs" />
+    <Compile Include="Kits\HtmlKit.cs" />
+    <Compile Include="Kits\HttpKit.cs" />
+    <Compile Include="Kits\ImageKit.cs" />
+    <Compile Include="Kits\NetMail.cs" />
+    <Compile Include="Kits\PageKit.cs" />
+    <Compile Include="Kits\PieGraphKit.cs" />
+    <Compile Include="Kits\RandomKit.cs" />
+    <Compile Include="Kits\SerializeKit.cs" />
+    <Compile Include="Kits\StreamKit.cs" />
+    <Compile Include="Kits\StringKit.cs" />
+    <Compile Include="Kits\Tools.cs" />
+    <Compile Include="Kits\ValidateCodeKit.cs" />
+    <Compile Include="Kits\ValidateKit.cs" />
+    <Compile Include="Kits\WebServiceKit.cs" />
+    <Compile Include="Kits\XmlVisitor.cs" />
+    <Compile Include="Kits\XmlWriter.cs" />
+    <Compile Include="Kits\ZipFileKit.cs" />
+    <Compile Include="PassPort\IdentityHelper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Web\CacheHelper.cs" />
+    <Compile Include="Web\CacheKeys.cs" />
+    <Compile Include="Web\HtmlHelper.cs" />
+    <Compile Include="Web\HttpModule.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Web\PageBase.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\Pager.cs" />
+    <Compile Include="Xml\XmlChildListBase.cs" />
+    <Compile Include="Xml\XmlChildListRepository.cs" />
+    <Compile Include="Xml\XmlDataBase.cs" />
+    <Compile Include="Xml\XmlRepository.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ICSharpCode.SharpZipLib.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

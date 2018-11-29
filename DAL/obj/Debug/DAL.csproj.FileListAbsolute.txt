@@ -1,0 +1,107 @@
+D:\Desktop\Myhome_prj\Myhome_prj\DAL\bin\Debug\DAL.dll
+D:\Desktop\Myhome_prj\Myhome_prj\DAL\bin\Debug\DAL.pdb
+D:\Desktop\Myhome_prj\Myhome_prj\DAL\bin\Debug\Aliyun.OSS.dll
+D:\Desktop\Myhome_prj\Myhome_prj\DAL\bin\Debug\Entity.dll
+D:\Desktop\Myhome_prj\Myhome_prj\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\Myhome_prj\Myhome_prj\DAL\bin\Debug\Qiniu.dll
+D:\Desktop\Myhome_prj\Myhome_prj\DAL\bin\Debug\Entity.pdb
+D:\Desktop\Myhome_prj\Myhome_prj\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Desktop\Myhome_prj\Myhome_prj\DAL\obj\Debug\DAL.dll
+D:\Desktop\Myhome_prj\Myhome_prj\DAL\obj\Debug\DAL.pdb
+D:\Desktop\Myhome_prj\DAL\bin\Debug\DAL.dll
+D:\Desktop\Myhome_prj\DAL\bin\Debug\DAL.pdb
+D:\Desktop\Myhome_prj\DAL\bin\Debug\Aliyun.OSS.dll
+D:\Desktop\Myhome_prj\DAL\bin\Debug\Entity.dll
+D:\Desktop\Myhome_prj\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\Myhome_prj\DAL\bin\Debug\Qiniu.dll
+D:\Desktop\Myhome_prj\DAL\bin\Debug\Entity.pdb
+D:\Desktop\Myhome_prj\DAL\obj\Debug\DAL.dll
+D:\Desktop\Myhome_prj\DAL\obj\Debug\DAL.pdb
+D:\Desktop\Myhome_prj\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\123456\Desktop\Myhome_prj\DAL\bin\Debug\DAL.dll
+C:\Users\123456\Desktop\Myhome_prj\DAL\bin\Debug\DAL.pdb
+C:\Users\123456\Desktop\Myhome_prj\DAL\bin\Debug\Aliyun.OSS.dll
+C:\Users\123456\Desktop\Myhome_prj\DAL\bin\Debug\Entity.dll
+C:\Users\123456\Desktop\Myhome_prj\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\123456\Desktop\Myhome_prj\DAL\bin\Debug\Qiniu.dll
+C:\Users\123456\Desktop\Myhome_prj\DAL\bin\Debug\Entity.pdb
+C:\Users\123456\Desktop\Myhome_prj\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\123456\Desktop\Myhome_prj\DAL\obj\Debug\DAL.dll
+C:\Users\123456\Desktop\Myhome_prj\DAL\obj\Debug\DAL.pdb
+C:\Users\123456\Documents\Visual Studio 2017\Projects\MvcMyhome_prj\DAL\bin\Debug\DAL.dll
+C:\Users\123456\Documents\Visual Studio 2017\Projects\MvcMyhome_prj\DAL\bin\Debug\DAL.pdb
+C:\Users\123456\Documents\Visual Studio 2017\Projects\MvcMyhome_prj\DAL\bin\Debug\Aliyun.OSS.dll
+C:\Users\123456\Documents\Visual Studio 2017\Projects\MvcMyhome_prj\DAL\bin\Debug\Entity.dll
+C:\Users\123456\Documents\Visual Studio 2017\Projects\MvcMyhome_prj\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\123456\Documents\Visual Studio 2017\Projects\MvcMyhome_prj\DAL\bin\Debug\Qiniu.dll
+C:\Users\123456\Documents\Visual Studio 2017\Projects\MvcMyhome_prj\DAL\bin\Debug\Entity.pdb
+C:\Users\123456\Documents\Visual Studio 2017\Projects\MvcMyhome_prj\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\123456\Documents\Visual Studio 2017\Projects\MvcMyhome_prj\DAL\obj\Debug\DAL.dll
+C:\Users\123456\Documents\Visual Studio 2017\Projects\MvcMyhome_prj\DAL\obj\Debug\DAL.pdb
+d:\Desktop\MvcMyhome_prj\DAL\bin\Debug\DAL.dll
+d:\Desktop\MvcMyhome_prj\DAL\bin\Debug\DAL.pdb
+d:\Desktop\MvcMyhome_prj\DAL\bin\Debug\Aliyun.OSS.dll
+d:\Desktop\MvcMyhome_prj\DAL\bin\Debug\Entity.dll
+d:\Desktop\MvcMyhome_prj\DAL\bin\Debug\Qiniu.dll
+d:\Desktop\MvcMyhome_prj\DAL\bin\Debug\Entity.pdb
+d:\Desktop\MvcMyhome_prj\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+d:\Desktop\MvcMyhome_prj\DAL\obj\Debug\DAL.dll
+d:\Desktop\MvcMyhome_prj\DAL\obj\Debug\DAL.pdb
+d:\Desktop\MvcMyhome_prj\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\DAL\bin\Debug\DAL.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\DAL\bin\Debug\DAL.pdb
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\DAL\bin\Debug\Aliyun.OSS.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\DAL\bin\Debug\Entity.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\DAL\bin\Debug\Qiniu.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\DAL\bin\Debug\Entity.pdb
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\DAL\obj\Debug\DAL.dll
+C:\Users\tianGe\Documents\Visual Studio 2013\Projects\MvcMyhome_Prj\DAL\obj\Debug\DAL.pdb
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\DAL\bin\Debug\DAL.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\DAL\bin\Debug\DAL.pdb
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\DAL\bin\Debug\Aliyun.OSS.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\DAL\bin\Debug\Entity.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\DAL\bin\Debug\Qiniu.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\DAL\bin\Debug\Entity.pdb
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\DAL\obj\Debug\DAL.dll
+C:\Users\tianGe\Documents\Tencent Files\616397681\FileRecv\MobileFile\MvcMyhome_Prj\DAL\obj\Debug\DAL.pdb
+C:\Users\123456\Desktop\MvcMyhome_Prj\DAL\bin\Debug\DAL.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\DAL\bin\Debug\DAL.pdb
+C:\Users\123456\Desktop\MvcMyhome_Prj\DAL\bin\Debug\Aliyun.OSS.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\DAL\bin\Debug\Entity.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\DAL\bin\Debug\Qiniu.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\DAL\bin\Debug\Entity.pdb
+C:\Users\123456\Desktop\MvcMyhome_Prj\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\123456\Desktop\MvcMyhome_Prj\DAL\obj\Debug\DAL.dll
+C:\Users\123456\Desktop\MvcMyhome_Prj\DAL\obj\Debug\DAL.pdb
+D:\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\bin\Debug\DAL.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\bin\Debug\DAL.pdb
+D:\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\bin\Debug\Aliyun.OSS.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\bin\Debug\Entity.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\bin\Debug\Qiniu.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\bin\Debug\Entity.pdb
+D:\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\obj\Debug\DAL.dll
+D:\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\obj\Debug\DAL.pdb
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\bin\Debug\DAL.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\bin\Debug\DAL.pdb
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\bin\Debug\Aliyun.OSS.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\bin\Debug\Entity.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\bin\Debug\Qiniu.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\bin\Debug\Entity.pdb
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\obj\Debug\DAL.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\DAL\obj\Debug\DAL.pdb
+D:\个人项目\MvcMyhome_Prj\DAL\bin\Debug\DAL.dll
+D:\个人项目\MvcMyhome_Prj\DAL\bin\Debug\DAL.pdb
+D:\个人项目\MvcMyhome_Prj\DAL\bin\Debug\Aliyun.OSS.dll
+D:\个人项目\MvcMyhome_Prj\DAL\bin\Debug\Entity.dll
+D:\个人项目\MvcMyhome_Prj\DAL\bin\Debug\Qiniu.dll
+D:\个人项目\MvcMyhome_Prj\DAL\bin\Debug\Entity.pdb
+D:\个人项目\MvcMyhome_Prj\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\个人项目\MvcMyhome_Prj\DAL\obj\Debug\DAL.dll
+D:\个人项目\MvcMyhome_Prj\DAL\obj\Debug\DAL.pdb

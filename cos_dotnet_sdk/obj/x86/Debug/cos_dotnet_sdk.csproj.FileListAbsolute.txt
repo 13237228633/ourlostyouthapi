@@ -1,0 +1,34 @@
+D:\cos-dotnet-sdk\cos_dotnet_sdk\bin\Debug\cos api sdk.exe.config
+D:\cos-dotnet-sdk\cos_dotnet_sdk\bin\Debug\cos api sdk.exe
+D:\cos-dotnet-sdk\cos_dotnet_sdk\bin\Debug\cos api sdk.pdb
+D:\cos-dotnet-sdk\cos_dotnet_sdk\bin\Debug\Newtonsoft.Json.dll
+D:\cos-dotnet-sdk\cos_dotnet_sdk\obj\x86\Debug\cos_dotnet_sdk.csprojResolveAssemblyReference.cache
+D:\cos-dotnet-sdk\cos_dotnet_sdk\obj\x86\Debug\cos api sdk.exe
+D:\cos-dotnet-sdk\cos_dotnet_sdk\obj\x86\Debug\cos api sdk.pdb
+d:\Desktop\MvcMyhome_Prj\cos_dotnet_sdk\bin\Debug\cos api sdk.exe.config
+d:\Desktop\MvcMyhome_Prj\cos_dotnet_sdk\bin\Debug\cos api sdk.exe
+d:\Desktop\MvcMyhome_Prj\cos_dotnet_sdk\bin\Debug\cos api sdk.pdb
+d:\Desktop\MvcMyhome_Prj\cos_dotnet_sdk\bin\Debug\Newtonsoft.Json.dll
+d:\Desktop\MvcMyhome_Prj\cos_dotnet_sdk\obj\x86\Debug\cos api sdk.exe
+d:\Desktop\MvcMyhome_Prj\cos_dotnet_sdk\obj\x86\Debug\cos api sdk.pdb
+d:\Desktop\MvcMyhome_Prj\cos_dotnet_sdk\obj\x86\Debug\cos_dotnet_sdk.csprojResolveAssemblyReference.cache
+d:\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\cos_dotnet_sdk\bin\Debug\cos api sdk.exe.config
+d:\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\cos_dotnet_sdk\bin\Debug\cos api sdk.exe
+d:\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\cos_dotnet_sdk\bin\Debug\cos api sdk.pdb
+d:\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\cos_dotnet_sdk\bin\Debug\Newtonsoft.Json.dll
+d:\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\cos_dotnet_sdk\obj\x86\Debug\cos_dotnet_sdk.csprojResolveAssemblyReference.cache
+d:\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\cos_dotnet_sdk\obj\x86\Debug\cos api sdk.exe
+d:\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\cos_dotnet_sdk\obj\x86\Debug\cos api sdk.pdb
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\cos_dotnet_sdk\bin\Debug\cos api sdk.exe.config
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\cos_dotnet_sdk\bin\Debug\cos api sdk.exe
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\cos_dotnet_sdk\bin\Debug\cos api sdk.pdb
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\cos_dotnet_sdk\bin\Debug\Newtonsoft.Json.dll
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\cos_dotnet_sdk\obj\x86\Debug\cos api sdk.exe
+D:\旧电脑文件\Desktop\MvcMyhome_Prj\MvcMyhome_Prj\cos_dotnet_sdk\obj\x86\Debug\cos api sdk.pdb
+D:\个人项目\MvcMyhome_Prj\cos_dotnet_sdk\bin\Debug\cos api sdk.exe.config
+D:\个人项目\MvcMyhome_Prj\cos_dotnet_sdk\bin\Debug\cos api sdk.exe
+D:\个人项目\MvcMyhome_Prj\cos_dotnet_sdk\bin\Debug\cos api sdk.pdb
+D:\个人项目\MvcMyhome_Prj\cos_dotnet_sdk\bin\Debug\Newtonsoft.Json.dll
+D:\个人项目\MvcMyhome_Prj\cos_dotnet_sdk\obj\x86\Debug\cos api sdk.exe
+D:\个人项目\MvcMyhome_Prj\cos_dotnet_sdk\obj\x86\Debug\cos api sdk.pdb
+D:\个人项目\MvcMyhome_Prj\cos_dotnet_sdk\obj\x86\Debug\cos_dotnet_sdk.csprojResolveAssemblyReference.cache

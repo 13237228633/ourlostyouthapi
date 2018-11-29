@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "QQ登录中";
+    Layout = null;
+}
+<link   href="/Content/layui/css/layui.css" rel="stylesheet" />
+<script src="/Content/jquery-1.10.2.js"></script><script type="text/javascript">
+        //检查是否登录
+    //if (QC.Login.check()) {//如果已登录
+    //        QC.Login.getMe(function (openId, accessToken) {
+    //            alert(["当前登录用户的", "openId为：" + openId, "accessToken为：" + accessToken].join("\n"));
+    //            //$.ajax({
+    //            //    type: "POST",
+    //            //    url: "/User/ExecuteQqLogin",
+    //            //    data: { userOpenid:openId, userAccessToken:accessToken },
+    //            //    success: function (data) {
+    //            //        console.info(data)
+    //            //        var resobj = JSON.parse(data);
+    //            //        if (resobj.result)
+    //            //        {
+    //            //            window.location.href = "http://www.ourlostyouth.top"
+    //            //        }
+    //            //    }
+    //            //})
+   
+    //        });
+    //}
+
+</script>
+
+<body align="center">
+    @ViewBag.str;
+    <h3 style="font-size: 30px; color: #1E9FFF;text-align:center" ><i class="layui-icon layui-anim layui-anim-rotate layui-anim-loop" style="font-size: 40px; color: #1E9FFF;">&#xe63d;</i>登陆中...</h3>
+</body>
+

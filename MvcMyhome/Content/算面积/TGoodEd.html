@@ -1,0 +1,172 @@
+﻿<script src="jquery-1.10.2.js"></script>
+<script>
+    function sub() {
+        $("#btn").hide();
+        var model = {
+            intUserCompany: $("#ThCompanyID").val() || ' ',
+            outUserCompany: $("#GyCompanyID").val() || ' ',
+            Brand: $("#Brand").val() || ' ',
+            LevelTitle: $("#LevelTitle").val() || ' ',
+            Deep: $("#Deep").val() || ' ',
+            Height: $("#Height").val() || ' ',
+            Width: $("#Width").val() || ' ',
+            JiaNum: $('#JiaNum').val() || ' ',
+            TotalPianNum: $("#TotalPianNum").val() || ' ',
+            Area: $("#Area").val() || ' ',
+            Weight: $("#Weight").val() || ' ',
+            WeightNum: $("#WeightNum").val() || ' ',
+            WlType: $("#WlType").val() || ' ',
+            CarNo: $("#CarNo").val() || ' ',
+            DriverTel: $("#DriverTel").val() || ' ',
+            wlPrice: $('#wlPrice').val() || ' ',
+            wlToPrice: $("#wlToPrice").val() || ' ',
+            zcPrice: $("#zcPrice").val() || ' ',
+            salePrice: $("#salePrice").val() || ' ',
+            BuyPrice: $("#BuyPrice").val() || ' ',
+            TosalePrice: $("#TosalePrice").val() || ' ',
+            ToBuyPrice: $("#ToBuyPrice").val() || ' ',
+            TotalsalePrice: $("#TotalsalePrice").val() || ' ',
+            TotalBuyPrice: $('#TotalBuyPrice').val() || ' ',
+            profit: $('#profit').val() || ' ',
+            CreateTime: '@DateTime.Now',
+        };
+        $.ajax({
+            url: '@Url.Action("TGoodEd")',
+            type: 'post',
+            data: model,
+            success: function (data) {
+                if (data.code > 0) {
+                    alert("操作成功！");
+                    self.location = document.referrer;
+                } else {
+                    alert(data.msg);
+                }
+                $("#btn").show();
+            }
+        });
+    }
+</script>
+
+<div class="main_content">
+    <div class="top clearfix">
+        <a href="JavaScript:" onclick="self.location=document.referrer;" class=" fr mr30">返回</a>
+    </div>
+    <div class="main edit edit2">
+        <div class="mr10 pr10">
+            <ul>
+
+                <li class="fm_item">
+                    <label>品牌：</label>
+                    <input type="text" name="Brand" id="Brand" style="width: 150px" />
+                </li>
+                <li class="fm_item">
+                    <label>等级：</label>
+                    <input type="text" name="LevelTitle" id="LevelTitle" style="width: 150px" />
+                </li>
+                <li class="fm_item">
+                    <label>厚（毫米）：</label>
+                    <input type="text" name="Deep" id="Deep" style="width: 150px"/>
+                </li>
+                <li class="fm_item">
+                    <label>长（米）：</label>
+                    <input type="text" name="Height"  id="Height" style="width: 150px"  />
+                </li>
+                <li class="fm_item">
+                    <label>宽（米）：</label>
+                    <input type="text" name="Width"  id="Width" style="width: 150px" />
+                </li>
+                <li class="fm_item">
+                    <label>单位（片数/包）：</label>
+                    <input type="text" name="Unit" id="Unit" style="width: 150px" onchange="getPianNum();" />
+                </li>
+                <li class="fm_item">
+                    <label>架数：</label>
+                    <input type="text" name="JiaNum" id="JiaNum" style="width: 150px" onchange="getPianNum();" />
+                </li>
+                <li class="fm_item">
+                    <label>总片数：</label>
+                    <input type="text" name="TotalPianNum"  id="TotalPianNum" style="width: 150px" />
+                </li>
+                <li class="fm_item">
+                    <label>面积（千米）：</label>
+                    <input type="text" name="Area" id="Area" style="width: 150px" onchange="getWeight()"  />
+                </li>
+                <li class="fm_item">
+                    <label>重量（吨）：</label>
+                    <input type="text" name="Weight" id="Weight" style="width: 150px" onchange="getWeightNum()" />
+                </li>
+                <li class="fm_item">
+                    <label>重量箱（重箱）：</label>
+                    <input type="text" name="WeightNum" id="WeightNum" style="width: 150px" />
+                </li>
+                <li class="fm_item">
+                    <label>物流类型：</label>
+                    <select class="selectBox" name="WlType" id="WlType">
+                        <option value="0" >自有物流</option>
+                        <option value="1" >平台物流</option>
+                    </select>
+                </li>
+                <li class="fm_item">
+                    <label>车牌号：</label>
+                    <input type="text" name="CarNo" id="CarNo" style="width: 150px" />
+                </li>
+                <li class="fm_item">
+                    <label>司机电话：</label>
+                    <input type="text" name="DriverTel" id="DriverTel" style="width: 150px" />
+                </li>
+                <li class="fm_item">
+                    <label>运费单价：</label>
+                    <input type="text" name="wlPrice" id="wlPrice" style="width: 150px" />
+                </li>
+                <li class="fm_item">
+                    <label>运费总价：</label>
+                    <input type="text" name="wlToPrice" id="wlToPrice" style="width: 150px" />
+                </li>
+                <li class="fm_item">
+                    <label>装车费：</label>
+                    <input type="text" name="zcPrice" id="zcPrice" style="width: 150px" onclick="getzcprice()" />
+                </li>
+                <li class="fm_item">
+                    <label>销售单价：</label>
+                    <input type="text" name="salePrice" id="salePrice" style="width: 150px" />
+                </li>
+                <li class="fm_item">
+                    <label>采购单价：</label>
+                    <input type="text" name="BuyPrice" id="BuyPrice" style="width: 150px" />
+                </li>
+                <li class="fm_item">
+                    <label>销售总金额（货款）：</label>
+                    <input type="text" name="TosalePrice" id="TosalePrice" style="width: 150px" onclick="getprice()"/>
+                </li>
+                <li class="fm_item">
+                    <label>采购总金额（货款）：</label>
+                    <input type="text" name="ToBuyPrice" id="ToBuyPrice" style="width: 150px" />
+                </li>
+                <li class="fm_item">
+                    <label>销售总金额（货款+装车费）：</label>
+                    <input type="text" name="TotalsalePrice" id="TotalsalePrice" style="width: 150px" onclick="getToprice()"/>
+                </li>
+                <li class="fm_item">
+                    <label>采购总金额（货款+装车费）：</label>
+                    <input type="text" name="TotalBuyPrice" id="TotalBuyPrice" style="width: 150px" />
+                </li>
+                <li class="fm_item">
+                    <label>盈利：</label>
+                    <input type="text" name="profit" id="profit" style="width: 150px" />
+                </li>
+            </ul>
+            <div class="box c">
+                <input id="btn" type="button" class="btn" value="保存" onclick="sub()" />
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+
+    $(document).ready(function () {
+        $("input").keyup(function () {
+            $("#TotalPianNum").val($("#JiaNum").val() * $("#Unit").val())
+            $("#Area").val($("#Height").val() * $("#Width").val() * $("#TotalPianNum").val())
+        });
+    })
+</script>
