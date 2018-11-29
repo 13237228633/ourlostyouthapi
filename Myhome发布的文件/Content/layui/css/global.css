@@ -1,8 +1,0 @@
-.site-demo-upload {
-  margin:0px auto;
-}
-.site-demo-upload,
-.site-demo-upload img{width: 100px; height: 100px; border-radius: 100%;}
-.site-demo-upload{position: relative; background: #e2e2e2;}
-.site-demo-upload .site-demo-upbar{position: absolute; top: 18%; left: 56%; margin: -18px 0 0 -56px;width: 100px; height: 100px; filter:alpha(Opacity=60);-moz-opacity:0;opacity: 0}
-.site-demo-upload .layui-upload-button{background-color: rgba(0,0,0,.2); color: rgba(255,255,255,1);}
